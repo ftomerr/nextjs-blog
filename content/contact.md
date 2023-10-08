@@ -1,20 +1,20 @@
 ---
-title: "Let’s, Talk </br> About You"
+title: "Let’s, Talk  </br> About You"
 description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
-form_action: "#"
+phone: "+90 0553 960 ** **"
+mail: "ofarukk112@gmail.com"
+location: "Turkey, Istanbul"
+form_action: "https://formspree.io/f/mayglgjn"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
+    content: +90 0553 960 68 06
+    link: tel:+90 0553 960 68 06
   - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
+    content: ofarukk112@gmail.com
+    link: ofarukk112@gmail.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: Turkey, Istanbul
 
 draft: false
 ---

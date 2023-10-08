@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "Droft Web",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/logo.png",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
-    "logo_width": "150",
-    "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_width": "60",
+    "logo_height": "60",
+    "logo_text": "droft"
   },
   "settings": {
     "theme_switcher": true,
@@ -22,18 +22,18 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": "",
+    "copyright": "Designed and Developed By [Droft](https://www.youtube.com/watch?v=YPBUwtERPmM&ab_channel=WhatshouldInamethischannel)"
   },
   "metadata": {
     "meta_author": "Statichunt",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_description": "Nextjs Personal Blog"
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "I will write my blog posts in Turkish or English. I will try to share information in many different areas."
     },
     "featured_posts": {
       "enable": true,
@@ -45,10 +45,10 @@
       "title": "Blog Categories"
     },
     "newsletter": {
-      "enable": true,
+      "enable": false,
       "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
-      "privacy_policy_page": "#",
+      "content": "COMING SOON!",
+      "privacy_policy_page": "https://www.youtube.com/watch?v=YPBUwtERPmM&ab_channel=WhatshouldInamethischannel",
       "malichipm_url": ""
     }
   },

@@ -1,10 +1,10 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to Droft's Website"
+  content: Welcome to my website! Here, you will discover information about my proficiency in various languages, explore my blog, find my contact details, and, in short, learn more about me.
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/montana.png
   button:
     enable: true
     label: Know About Me

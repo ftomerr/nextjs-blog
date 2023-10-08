@@ -28,9 +28,9 @@ const Contact = ({ data }) => {
           </div>
           <div className="contact-form-wrapper rounded border border-border p-6 dark:border-darkmode-border lg:col-6">
             <h2>
-              Send Us A
+              Contact
               <span className="ml-1.5 inline-flex items-center text-primary">
-                Message
+                Me
                 <BsArrowRightShort />
               </span>
             </h2>
@@ -50,7 +50,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full"
                   name="name"
                   type="text"
-                  placeholder="Thomas Milano"
+                  placeholder="Write Your Name"
                   required
                 />
               </div>
@@ -80,7 +80,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full"
                   name="subject"
                   type="text"
-                  placeholder="Blog advertisement"
+                  placeholder="Your Subject"
                   required
                 />
               </div>
@@ -93,13 +93,14 @@ const Contact = ({ data }) => {
                 </label>
                 <textarea
                   className="form-textarea w-full"
-                  placeholder="Hello I’m Mr ‘x’ from………….."
+                  placeholder="Write Your Message"
                   rows="7"
                 />
               </div>
               <input
                 className="btn btn-primary"
                 type="submit"
+                name="Message"
                 value="Send Now"
               />
             </form>

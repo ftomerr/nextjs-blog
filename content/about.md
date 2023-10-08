@@ -1,36 +1,32 @@
 ---
-title: About The Author
+title: About Me
 image: /images/author.png
 description: "meta description"
 layout: about
 education:
-  title: Formal Education
+  title: My hobbies
   degrees:
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Northeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Easteast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"  
+    - university: "Football"
+      content: "I like playing football with my friends."
+    - university: "Video Games"
+      content: "I really enjoy playing fps games like CS:GO, Valorant."
+    - university: "Coding"
+      content: "I code to spend my free time. I feel very happy when I achieve something."
+    - university: "GYM"
+      content: "I go to the gym to get rid of being skinny and feel good about myself."  
 
 experience:
-  title: Work Experience
+  title: Technologies
   list:
-    - Best Writer Award
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best Book
+    - HTML5
+    - CSS
+    - TAILWIND CSS
+    - JAVASCRIPT
+    - TYPESCRIPT
+    - NEXT.JS
+    - NODE.JS
+    - EXPRESS.JS
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+I am a student interested in web development from Turkey. I'm starting my journey in web development, beginning with fundamental technologies like HTML, CSS, and Bootstrap. Simultaneously, I'm exploring modern tools like TypeScript and React, which are shedding light on my path. I've also taken my first steps into server-side development with Node.js. My goal is to create user-friendly interfaces and design powerful, scalable backend systems. In the future, I aspire to make a difference as a full-stack developer. I'm learning something new every day and striving towards my goal with confidence.

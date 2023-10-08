@@ -17,8 +17,8 @@
       "url": "/contact"
     },
     {
-      "name": "Pages",
-      "url": "",
+      "name": "Blog",
+      "url": "/",
       "hasChildren": true,
       "children": [
         {
@@ -43,7 +43,7 @@
     },
     {
       "name": "Privacy Policy",
-      "url": "#"
+      "url": "https://www.youtube.com/watch?v=YPBUwtERPmM&ab_channel=WhatshouldInamethischannel"
     }
   ]
 }
