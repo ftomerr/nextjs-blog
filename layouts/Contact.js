@@ -92,6 +92,8 @@ const Contact = ({ data }) => {
                   </small>
                 </label>
                 <textarea
+                  name="message"
+                  type="text"
                   className="form-textarea w-full"
                   placeholder="Write Your Message"
                   rows="7"
@@ -100,7 +102,6 @@ const Contact = ({ data }) => {
               <input
                 className="btn btn-primary"
                 type="submit"
-                name="Message"
                 value="Send Now"
               />
             </form>
