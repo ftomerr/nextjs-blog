@@ -1,5 +1,5 @@
 ---
-title: "Komşumuzun Çocuklarını Öldürmek İstiyorum"
+title: "Deneme Postu-2"
 date: 2023-10-09T01:00:00Z
 image: /images/post/post-3.png
 categories: ["Kişisel"]
