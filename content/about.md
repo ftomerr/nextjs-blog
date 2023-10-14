@@ -6,8 +6,8 @@ layout: about
 education:
   title: My hobbies
   degrees:
-    - university: "Football"
-      content: "I like playing football with my friends."
+    - university: "Chess"
+      content: "I enjoy playing chess on chess.com, learning new openings and improving myself."
     - university: "Video Games"
       content: "I really enjoy playing fps games like CS:GO, Valorant."
     - university: "Coding"
@@ -29,4 +29,4 @@ experience:
 
 ---
 
-I am a student interested in web development from Turkey. I'm starting my journey in web development, beginning with fundamental technologies like HTML, CSS, and Bootstrap. Simultaneously, I'm exploring modern tools like TypeScript and React, which are shedding light on my path. I've also taken my first steps into server-side development with Node.js. My goal is to create user-friendly interfaces and design powerful, scalable backend systems. In the future, I aspire to make a difference as a full-stack developer. I'm learning something new every day and striving towards my goal with confidence.
+I am a student interested in web development from Turkey. I'm starting my journey in web development, beginning with fundamental technologies like HTML, CSS, Tailwind and Javascript. Simultaneously, I'm exploring modern tools like TypeScript and React, which are shedding light on my path. I've also taken my first steps into server-side development with Node.js. My goal is to create user-friendly interfaces and design powerful, scalable backend systems. In the future, I aspire to make a difference as a full-stack developer. I'm learning something new every day and striving towards my goal with confidence.
