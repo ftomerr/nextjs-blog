@@ -2,7 +2,7 @@
 title: "Deneme Postu"
 date: 2023-10-09T01:00:00Z
 image: /images/post/post-8.png
-categories: ["Kişisel"]
+categories: ["deneme"]
 featured: true
 draft: false
 ---
